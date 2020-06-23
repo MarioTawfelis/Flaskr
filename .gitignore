@@ -143,3 +143,4 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+.DS_Store
